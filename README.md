@@ -91,14 +91,14 @@ Here are some ideas to get you started:
 </br>
 
 <p align="center">
- <a href="#" alt="Muzummil's github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzummil&layout=compact" />
+ <a href="#" alt="Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzummil&layout=compact&theme=dark" />
  </a>
 </p>
 
 <p align="center">
  <a href="#" alt="Muzummil's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzummil&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzummil&show_icons=true&count_private=true&theme=dark" />
  </a>
 
 </p>
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="#" alt="Muzummil Iqbal's Treophies">
-  <img src="https://github-profile-trophy.vercel.app/?username=muzummil" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muzummil&theme=monokai" />
  </a>
 </p>
 
