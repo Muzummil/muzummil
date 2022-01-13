@@ -86,7 +86,10 @@ Here are some ideas to get you started:
 <!-- ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows) -->
 <!-- ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=MacOS) -->
 
+
 <!-- Find out more about me and feel free to connect with me here: -->
+
+![](https://komarev.com/ghpvc/?username=muzummil)
 
 </br>
 
@@ -116,6 +119,5 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=muzummil&theme=monokai" />
  </a>
 </p>
-
 
 
