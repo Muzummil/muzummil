@@ -56,8 +56,9 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![ReactJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React-Hooks](https://img.shields.io/badge/-React%20Hooks-black?style=flat-square&logo=react)
+![React-Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
 
 
