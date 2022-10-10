@@ -122,3 +122,9 @@ Here are some ideas to get you started:
 </p>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+
+## ⚡ Recent GitHub Activity
+<br/>
+ <img alt="Muzummil Iqbal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muzummil&custom_title=Muzummil-Iqbal's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<br/>
