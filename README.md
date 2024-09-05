@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 <!-- Find out more about me and feel free to connect with me here: -->
 
-![](https://komarev.com/ghpvc/?username=muzummil)
+<!-- ![](https://komarev.com/ghpvc/?username=muzummil) -->
 
 </br>
 
