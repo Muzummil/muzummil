@@ -30,7 +30,6 @@
   <img src="https://cdn.simpleicons.org/typescript/3178C6?width=40" alt="TypeScript" title="TypeScript" style="height:40px; width:40px; object-fit: contain;">
   <img src="https://cdn.simpleicons.org/angular/DD0031?width=40" alt="Angular" title="Angular" style="height:40px; width:40px; object-fit: contain;">
   <img src="https://cdn.simpleicons.org/react/61DAFB?width=40" alt="ReactJS" title="React" style="height:40px; width:40px; object-fit: contain;">
-  <img src="https://cdn.simpleicons.org/vue.js/4FC08D?width=40" alt="VueJS" title="Vue" style="height:40px; width:40px; object-fit: contain;">
   <img src="https://cdn.simpleicons.org/git/F05032?width=40" alt="Git" title="Git" style="height:40px; width:40px; object-fit: contain;">
   <img src="https://cdn.simpleicons.org/docker/2496ED?width=40" alt="Docker" title="Docker" style="height:40px; width:40px; object-fit: contain;">
 </div>
@@ -88,15 +87,7 @@
 <div style="margin: 20px 0;">
   <h2 align="center">📫 Contact Me</h2>
   <p align="center" style="max-width: 600px; margin: auto; line-height: 1.5;">
-    Feel free to reach out via <a href="mailto:your-email@example.com">Email</a> or connect with me on 
+    Feel free to reach out via <a href="mailto:muzummil.iqbal@gmail.com">Email</a> or connect with me on 
     <a href="https://www.linkedin.com/in/muzummil-iqbal-67b92515b/">LinkedIn</a>.
-  </p>
-</div>
-
-<!-- Extra Section: Latest Blog Posts (Placeholder Section) -->
-<div style="margin: 20px 0;">
-  <h2 align="center">📝 Latest Blog Posts</h2>
-  <p align="center" style="max-width: 600px; margin: auto; line-height: 1.5;">
-    Check out my latest articles on <a href="https://medium.com/@yourusername">Medium</a> or <a href="https://dev.to/yourusername">Dev.to</a>.
   </p>
 </div>
