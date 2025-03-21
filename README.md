@@ -62,6 +62,9 @@
 <!-- GitHub Stats Section (flex container for better layout) -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
   <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzummil&layout=compact&theme=dark" alt="Languages">
+  </a>
+  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=muzummil&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
   </a>
   <a href="https://streak-stats.demolab.com?user=muzummil&theme=dark"><img src="https://streak-stats.demolab.com?user=muzummil&theme=dark" alt="GitHub Streak" /></a>
