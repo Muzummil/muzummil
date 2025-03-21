@@ -56,14 +56,11 @@
   <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" alt="Firebase">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
 </p>
-
+  
 <br/>
 
 <!-- GitHub Stats Section (flex container for better layout) -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzummil&layout=compact&theme=dark" alt="Languages">
-  </a>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=muzummil&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
   </a>
@@ -71,6 +68,12 @@
   <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=muzummil&theme=monokai" alt="GitHub Trophies">
   </a>
+
+  <!-- 
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzummil&layout=compact&theme=dark" alt="Languages">
+  </a>
+   -->
 </div>
 
 <!-- 3D Contribution Graph -->
@@ -80,7 +83,7 @@
 
 <!-- Recent Activity Graph -->
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://activity-graph.herokuapp.com/graph?username=muzummil&custom_title=Muzummil-Iqbal's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzummil&theme=high-contrast" alt="Activity Graph">
 </div>
 
 <!-- Extra Section: Contact Me -->
